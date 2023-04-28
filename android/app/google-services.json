@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700095870743",
+    "project_id": "tenderglass-d3a21",
+    "storage_bucket": "tenderglass-d3a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700095870743:android:0f66f005a28c47806a2952",
+        "android_client_info": {
+          "package_name": "com.example.tenderglass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700095870743-o3prneodi68rnpod0mavg0nirqj8uvpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr58CeTa5xBLUxkHnRzW4-YMgl0mFOtOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700095870743-o3prneodi68rnpod0mavg0nirqj8uvpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
